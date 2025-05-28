@@ -128,11 +128,13 @@ The website implements several performance optimizations:
 
 ## 📄 License
 
-[Add license information here]
+[Regular License](https://webgraphiz.com/license)
 
 ## 👤 Author
 
-[Your Name/Organization]
+- **WebGraphiz Team**
+- [Portfolio](https://webgraphiz.com)
+- [Contact](mailto:info@webgraphiz.com)
 
 ---
 
